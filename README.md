@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Suvrat Garg and I'm a software engineer from India. It's nice to meet you!
 
 <!--
 **suvratgarg/suvratgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
